@@ -1,0 +1,53 @@
+body{
+     background-color: #d621fa;
+     color: aliceblue;
+}
+
+img{
+    height: 410px;
+    padding-left: 630px;
+    }
+
+header{
+    left: 100px;
+    right: 100px;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    margin-top: -350px;
+    padding-left: 50px;
+    font-size: 35px;
+    
+
+}
+
+.tex{
+    padding-right: 760px;
+    margin-top: 30px;
+    font-size: 22px;
+    margin-left: 40px;
+}
+
+h3{
+    background-color: rgb(253, 144, 1);
+    padding-left: 40px;
+    margin-left: 150px;
+    margin-right: 899px;
+    margin-top: 50px;
+    padding-bottom: 12px;
+    padding-right: 15px;
+    padding-top: 12px;
+    font-size: 25px;
+
+
+}
+
+
+
+
